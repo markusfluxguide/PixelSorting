@@ -3,7 +3,7 @@
 Pixel Sorting
 ============
 
-A set of experiments in pixel sorting using Processing
+A set of experiments in pixel sorting using Processing!
 
 \- \- \-
 
